@@ -34,7 +34,8 @@ private String userID = "";
 ……
 
 ## 实验结果
-
+### 实验结果如下
+![实验截图](https://raw.githubusercontent.com/seebeyond/JavaLab/master/img/11.jpg)
 可以给出文字说明，并配合图示
 ![运行结果](https://github.com/seebeyond/Java-/blob/master/test.jpg)
 
