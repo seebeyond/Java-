@@ -23,7 +23,7 @@ Java课程作业项目仓库
 1. 方法1
 2. 方法2
 3. 方法3
-```
+```java
 private String userID = "";
 	private String inputDate= "";
 	private String catalogID= "";
